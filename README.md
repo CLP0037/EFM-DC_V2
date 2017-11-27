@@ -3,21 +3,20 @@
 *An intermediate Qt Chat application with **File Sharing**.*
 
 ## Header files are -
-'''
-   <QObject>
-   <QUdpSocket>
-   <QDialog>
-   <QTcpServer>
-   <QTcpSocket>
-   <QFile>
-   <QObject>
-   <QWidget>
-   <QLabel>
-   <QHBoxLayout>
-   <QTimer>
-   <QMainWindow>
-   <QListWidgetItem>
-'''
+
+#include < QObject > 
+#include < QUdpSocket > 
+#include < QDialog > 
+#include < QTcpServer > 
+#include < QTcpSocket > 
+#include < QFile > 
+#include < QObject> 
+#include < QWidget> 
+#include < QLabel >
+#include < QHBoxLayout > 
+#include < QTimer > 
+#include < QMainWindow > 
+#include < QListWidgetItem > 
 
 ## Features:
 
