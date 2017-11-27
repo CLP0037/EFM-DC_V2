@@ -4,19 +4,19 @@
 
 ##Header files are -
 '''
-  #include <QObject>
-  #include <QUdpSocket>
-  #include <QDialog>
-  #include <QTcpServer>
-  #include <QTcpSocket>
-  #include <QFile>
-  #include <QObject>
-  #include <QWidget>
-  #include <QLabel>
-  #include <QHBoxLayout>
-  #include <QTimer>
-  #include <QMainWindow>
-  #include <QListWidgetItem>
+   <QObject>
+   <QUdpSocket>
+   <QDialog>
+   <QTcpServer>
+   <QTcpSocket>
+   <QFile>
+   <QObject>
+   <QWidget>
+   <QLabel>
+   <QHBoxLayout>
+   <QTimer>
+   <QMainWindow>
+   <QListWidgetItem>
 '''
 
 ## Features:
@@ -47,3 +47,4 @@ Here are a few screenshots, hope you like them:
 ### Development
 
 Want to contribute? Great!
+It's open sourced without any lisence. So, feel free to use ;)
