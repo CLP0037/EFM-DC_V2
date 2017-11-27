@@ -2,7 +2,7 @@
 
 *An intermediate Qt Chat application with **File Sharing**.*
 
-##Header files are -
+## Header files are -
 '''
    <QObject>
    <QUdpSocket>
