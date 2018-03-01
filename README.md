@@ -20,7 +20,7 @@
 
 ## Features:
 
-1. The program communicates through SOCKETS.
+1. The program communicates via the use of SOCKETS.
 2. The communication is UDP for messages.
 3. The files are send using TCP.
 4. Communication is also asynchronous.
@@ -46,4 +46,4 @@ Here are a few screenshots, hope you like them:
 ### Development
 
 Want to contribute? Great!
-It's open sourced without any lisence. So, feel free to use ;)
+It's open sourced without any licence. So, feel free to use ;)
