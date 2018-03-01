@@ -1,9 +1,9 @@
 # EFM-DC_V2
 
-*An intermediate Qt Chat application with **File Sharing**.*
+An intermediate Qt Chat application with **File Sharing**.
 
 ## Header files are -
-
+```
 #include < QObject > 
 #include < QUdpSocket > 
 #include < QDialog > 
@@ -17,7 +17,7 @@
 #include < QTimer > 
 #include < QMainWindow > 
 #include < QListWidgetItem > 
-
+```
 ## Features:
 
 1. The program communicates via the use of SOCKETS.
